@@ -25,7 +25,7 @@ class Elliott393(Human):
         "Network Security",
         "ML",
     ]
-    working_on = ["level up my skills", "SHAZAM"]
+    working_on = ["level up my skills", "MiD NighT"]
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
